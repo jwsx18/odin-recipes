@@ -1,0 +1,10 @@
+.name {
+    text-align: center;
+}
+.body-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#img {
+    height: auto;
+    width: 300px;
+}
