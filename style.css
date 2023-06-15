@@ -1,10 +1,52 @@
 .name {
     text-align: center;
+    font-size: 50px;
 }
-.body-text {
+.recname {
+    text-align: center;
+}
+.body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: solid;
+    border-color: brown;
+    border-width: 10px;
+    display: block;
+    height: auto;
+    width:750px;
+    margin: 15px auto;
+    padding: 0px;
+}
+.first {
+    background-color:azure;
+}
+.second {
+    display: block;
+    padding: 20px;
 }
 #img {
+    display: block;
     height: auto;
     width: 300px;
+    margin: 0px auto;
+    padding: 0px;
+    border-width: 0px 10px 10px 10px;
+    border-color: brown;
+    border-style: solid;
+}
+.frontpic {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: 0px auto;
+    padding: 0px;
+    border-width: 0px 10px 10px 10px;
+    border-color: brown;
+    border-style: solid;
+}
+.list {
+    font-size:18px;
+    display: block;
+    width: 200px;
+    margin: 0px auto;
+    padding: 0px 0px 10px 0px;
 }
